@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1558529619 source:c:\1\Ó÷¸áà\2 ñåì\snake\main.cpp
+	<SFML/Graphics.hpp>
+	<BoardView.h>
+	<Fruit.h>
+	<Snake.h>
+	<GameController.h>
+
+1557432292 source:c:\1\Ó÷¸áà\2 ñåì\snake\src\snakeboard.cpp
+	"SnakeBoard.h"
+
+1557432947 c:\1\Ó÷¸áà\2 ñåì\snake\include\snakeboard.h
+
+1558444810 source:c:\1\Ó÷¸áà\2 ñåì\snake\src\boardview.cpp
+	"BoardView.h"
+
+1558531509 c:\1\Ó÷¸áà\2 ñåì\snake\include\boardview.h
+	<SFML/Graphics.hpp>
+
+1558480466 c:\1\Ó÷¸áà\2 ñåì\snake\include\fruit.h
+	<BoardView.h>
+	<Snake.h>
+	<SFML/Graphics.hpp>
+
+1558531481 source:c:\1\Ó÷¸áà\2 ñåì\snake\src\fruit.cpp
+	"Fruit.h"
+	<iostream>
+
+1558532296 source:c:\1\Ó÷¸áà\2 ñåì\snake\src\snake.cpp
+	"Snake.h"
+
+1558531067 c:\1\Ó÷¸áà\2 ñåì\snake\include\snake.h
+	<BoardView.h>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<sstream>
+
+1558530553 source:c:\1\Ó÷¸áà\2 ñåì\snake\src\gamecontroller.cpp
+	"GameController.h"
+
+1558529724 c:\1\Ó÷¸áà\2 ñåì\snake\include\gamecontroller.h
+	<SFML/Audio.hpp>
+	<Fruit.h>
+	<Snake.h>
+	<BoardView.h>
+
